@@ -1,0 +1,1 @@
+enum UserProfileEditingStatus { NewUsername, UsernameSaved }

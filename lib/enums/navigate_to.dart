@@ -1,0 +1,1 @@
+enum NavigateTo { MainScreen, ProfileScreen, StartScreen }
